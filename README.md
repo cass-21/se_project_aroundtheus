@@ -24,14 +24,13 @@ This is my third project at TripleTen and my first time working with Figma on a 
 
 **Demo**
 
-Full Page View 
-![alt text](./images/demo/Full%20screen.png)
+![Full Page View](./images/demo/Full%20screen.png)
 
 Mid-Transition View
-![alt text](./images/demo/Mid%20Transition.png)
+![Mid Page View](./images/demo/Mid%20Transition.png)
 
 Mobile View
-![alt text](./images/demo/Mobile%20View.png)
+![Mobile View](./images/demo/Mobile%20View.png)
 
-(https://github.com/cass-21/se_project_aroundtheus)
+(https://cass-21.github.io/se_project_aroundtheus/)
 
