@@ -19,22 +19,18 @@ This is my third project at TripleTen and my first time working with Figma on a 
 
 **Figma**
 
-*[Link to the project design on Figma](https://www.figma.com/design/Es8zZP3ARGH9JGcw60i3OD/Sprint-3_-Around-the-US?node-id=0-1&t=KbTGmJXZs3idUKdP-0)
+[Link to the project design on Figma](https://www.figma.com/design/Es8zZP3ARGH9JGcw60i3OD/Sprint-3_-Around-the-US?node-id=0-1&t=KbTGmJXZs3idUKdP-0)
 
 **Demo**
 
-    Full Page View : 
-(./images/demo/Full%20screen.png)
+    **Full Page View** 
+![alt text](./images/demo/Full%20screen.png)
 
-    Mid-Trans View :
-(./images/demo/Mid%20Transition.png)
+    **Mid-Trans View**
+![alt text](./images/demo/Mid%20Transition.png)
 
-    Mobile View : 
-(./images/demo/Mobile%20View.png)
+    **Mobile View**
+![alt text](./images/demo/Mobile%20View.png)
 
-Links
-
-    Github
 (https://github.com/cass-21/se_project_aroundtheus)
 
-    Google Drive
