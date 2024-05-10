@@ -24,17 +24,17 @@ This is my third project at TripleTen and my first time working with Figma on a 
 **Demo**
 
     Full Page View : 
-![alt text](./images/demo/Full%20screen.png)
+(./images/demo/Full%20screen.png)
 
     Mid-Trans View :
-![alt text](./images/demo/Mid%20Transition.png)
+(./images/demo/Mid%20Transition.png)
 
     Mobile View : 
-![alt text](./images/demo/Mobile%20View.png)
+(./images/demo/Mobile%20View.png)
 
-**Links**
-    * Github
+Links
+
+    Github
 (https://github.com/cass-21/se_project_aroundtheus)
 
-    *  Google Drive
-()
+    Google Drive
