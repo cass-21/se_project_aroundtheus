@@ -33,4 +33,5 @@ Mobile View
 ![Mobile View](./images/demo/Mobile%20View.png)
 
 (https://cass-21.github.io/se_project_aroundtheus/)
+(https://drive.google.com/file/d/1TQOIY_9AVn1ED9agFqbSJ9eVmSYxVEQf/view?usp=sharing)
 
