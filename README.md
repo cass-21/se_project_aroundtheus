@@ -15,6 +15,7 @@
 - Responsive Web Design/Fluid Layouts
 
 **Description**
+
 This is my third project at TripleTen and my first time working with Figma on a project. This project contains media queries, flex elements, grids and should have a responsive design.
 
 **Figma**
@@ -23,13 +24,13 @@ This is my third project at TripleTen and my first time working with Figma on a 
 
 **Demo**
 
-    **Full Page View** 
+Full Page View 
 ![alt text](./images/demo/Full%20screen.png)
 
-    **Mid-Trans View**
+Mid-Transition View
 ![alt text](./images/demo/Mid%20Transition.png)
 
-    **Mobile View**
+Mobile View
 ![alt text](./images/demo/Mobile%20View.png)
 
 (https://github.com/cass-21/se_project_aroundtheus)
