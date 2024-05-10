@@ -1,8 +1,12 @@
 # Project 3: Around The U.S.
 
-This is the third project for the Software Engineering Program at TripleTen. It was created using HTML and CSS and it is designed to be responsive for mobile screens (320px), tablet screens (770px), and desktop screens (1280px). - .
+### Overview
+* Description
+* Figma
+* Demo
+* Links
 
-## Project features
+### Project features
 - Semantic HTML5
 - Flexbox
 - Positioning
@@ -10,5 +14,27 @@ This is the third project for the Software Engineering Program at TripleTen. It 
 - CSS animation and transform
 - Responsive Web Design/Fluid Layouts
 
-## Plans To Improve 
-- Add basic js
+**Description**
+This is my third project at TripleTen and my first time working with Figma on a project. This project contains media queries, flex elements, grids and should have a responsive design.
+
+**Figma**
+
+*[Link to the project design on Figma](https://www.figma.com/design/Es8zZP3ARGH9JGcw60i3OD/Sprint-3_-Around-the-US?node-id=0-1&t=KbTGmJXZs3idUKdP-0)
+
+**Demo**
+
+    Full Page View : 
+![alt text](./images/demo/Full%20screen.png)
+
+    Mid-Trans View :
+![alt text](./images/demo/Mid%20Transition.png)
+
+    Mobile View : 
+![alt text](./images/demo/Mobile%20View.png)
+
+**Links**
+    * Github
+(https://github.com/cass-21/se_project_aroundtheus)
+
+    *  Google Drive
+()
