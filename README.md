@@ -34,4 +34,4 @@ Mobile View
 
 (https://cass-21.github.io/se_project_aroundtheus/)
 (https://drive.google.com/file/d/1TQOIY_9AVn1ED9agFqbSJ9eVmSYxVEQf/view?usp=sharing)
-
+https://docs.google.com/document/d/1e-eFuk2HGs9UFC2h2a3xyZbdBewroITHFpsCQa0s8u8/edit?usp=sharing
