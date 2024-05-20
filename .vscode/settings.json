@@ -53,5 +53,6 @@
     "workbench.panel.opensMaximized": "always",
     "search.quickOpen.includeSymbols": false,
     "debug.toolBarLocation": "docked",
-    "emmet.triggerExpansionOnTab": true
+    "emmet.triggerExpansionOnTab": true,
+    "livePreview.showServerStatusNotifications": false
 }

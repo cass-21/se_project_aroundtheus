@@ -1,63 +1,28 @@
-const cardData1 = {
-  name: "Grand Canyon, AZ",
-  link: "https://unsplash.com/photos/landscape-of-mountain-HleqO6kuL9c"
-  };
-
-  const cardData2 = {
-    name: "Key West, FL",
-    link: "https://unsplash.com/photos/gray-wooden-dock-on-body-of-water-during-daytime-LwPmzW65U4M"
-  };
-
-  const cardData3 = {
-    name: "Napali Coast, HI",
-    link: "https://unsplash.com/photos/birds-eye-view-photography-of-mountain-wJl599nQyNA"
-  };
-
-  const cardData4 = { 
-    name: "New York City, NY",
-    link: "https://unsplash.com/photos/time-square-new-york-during-daytime-TaCk3NspYe0"
-  };
-
-  const cardData5 = {
-    name: "Portage, AK",
-    link: "https://unsplash.com/photos/northern-lights-3OR-XFzKSBo"
-  };
-
-  const cardData6 = {
-    name: "Seattle, WA",
-    link: "https://unsplash.com/photos/aerial-view-of-buildings-RpvC77-exG0"
-  };
-
 const initialCards = [
   {
-    name: "Grand Canyon, AZ",
-    link: "https://unsplash.com/photos/landscape-of-mountain-HleqO6kuL9c"
+    name: "Bald Mountains",
+    link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/around-project/bald-mountains.jpg"
   },
-
   {
-    name: "Key West, FL",
-    link: "https://unsplash.com/photos-gray-wooden-dock-on-body-of-water-during-daytime-LwPmzW65U4M"
+    name: "Lago Di Braies",
+    link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/around-project/lago.jpg"
   },
-
   {
-    name: "Napali Coast, HI",
-    link: "https://unsplash.com/photos/birds-eye-view-photography-of-mountain-wJl599nQyNA"
+    name: "Lake Louise",
+    link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/around-project/lake-louise.jpg"
   },
-
   {
-    name: "New York City, NY",
-    link: "https://unsplash.com/photos/time-square-new-york-during-daytime-TaCk3NspYe0"
+    name: "Latemar",
+    link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/around-project/latemar.jpg"
   },
-
   {
-    name: "Portage, AK",
-    link: "https://unsplash.com/photos/northern-lights-3OR-XFzKSBo"
+    name: "Vanoise National Park",
+    link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/around-project/vanoise.jpg"
   },
-
   {
-    name: "Seattle, WA",
-link: "https://unsplash.com/photos/aerial-view-of-buildings-RpvC77-exG0"
-  },
+    name: "Yosemite Valley",
+    link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/around-project/yosemite.jpg"
+  }
 ];
 
 console.log(initialCards);
