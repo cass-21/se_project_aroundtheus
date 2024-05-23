@@ -39,7 +39,6 @@ const profileDescriptionInput = document.querySelector("#profile-description-inp
 
 
 
-
 profileEditButton.addEventListener("click", () => {
   profileTitleInput.value = profileTitle.textContent;
   profileDescriptionInput.value = profileDescription.textContent; 

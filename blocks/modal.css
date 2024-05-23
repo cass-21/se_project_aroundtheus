@@ -17,6 +17,14 @@
 
 .modal__heading {
   font-family: "Inter", Arial, Helvetica, sans-serif;
+  color: #000;
+  text-align: left;
+  margin-top: auto;
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 29.05px;
+  max-width: 330px;
+  height: 23px;
 }
 
 .modal__container {
@@ -27,6 +35,23 @@
   margin: auto;
   padding: 36px;
   border-radius: 10px;
+}
+
+.modal__form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 36px;
+}
+
+/*.modal__input {
+  
+  height: 27.26px;
+  border: 1px solid #000;
+}*/
+
+.button modal__button {
+  max-width: 358px;
+  height: 50.15px;
 }
 
 .modal__close {
